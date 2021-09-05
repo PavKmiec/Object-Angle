@@ -1,3 +1,5 @@
+Calculates the angle from 3 points that can be drawn with a mouse click. 
+
 Photos taken with iPhone wide angle lens at various angles in relation to the chocolate box (more images in [results](https://github.com/PavKmiec/Object-Angle/tree/main/img_results_marked_angles))
 
 Points are not very accurate as they are hand drawn.
